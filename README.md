@@ -1,6 +1,6 @@
 ## Olá, eu sou Davi Carvalho 😁
   - 🤓 Em fase de aprendizagem 
-  - 🌱 Estudando Java-Web, HTML5, PHP, CSS3 
+  - 🌱 Estudando Java, HTML5, PHP, CSS3 
   - 😎 Pronouns: ele/dele
    
    <div>
